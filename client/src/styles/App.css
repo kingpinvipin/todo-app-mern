@@ -1,0 +1,53 @@
+.wrapper {
+  margin: 20px;
+  border-radius: 20px;
+}
+
+.btn {
+  margin-left: 15px;
+  width: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.input {
+  margin-left:200px;
+  border-radius: 10px;
+  width: 300px;
+  height: 42px;
+}
+
+.action {
+  float: right;
+  margin-right: 5px;
+  margin-top: 2px;
+  width: 50px;
+  height: 20px;
+  font-size: 10px;
+  padding: 0% ;
+}
+
+li {
+  margin-left: 5px;
+  margin-bottom: 30px;
+}
+
+.todoInput {
+  width: 750px;
+  margin: 5px 200px 0px 300px ;
+}
+
+.main {
+  width: 750px;
+  margin: 5px 200px 0px 300px ;
+  border-radius: 15px;
+}
+
+.msg {
+  color: red;
+  text-align: center;
+}
+
+
+
+
